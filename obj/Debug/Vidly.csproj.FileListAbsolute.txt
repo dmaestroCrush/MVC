@@ -137,4 +137,3 @@ D:\MVC\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 D:\MVC\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 D:\MVC\Vidly\Vidly\obj\Debug\Vidly.dll
 D:\MVC\Vidly\Vidly\obj\Debug\Vidly.pdb
-D:\MVC\Vidly\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
